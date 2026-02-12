@@ -64,21 +64,6 @@ Rule:
 
 ------------------------------------------------------------------------
 
-### Example: int_splash
-
-``` json
-{
-  "tag": "AppLang_next",
-  "preloadAdUnitId": "ca-app-pub-xxx/preload",
-  "loadAndShowAdUnitId": "ca-app-pub-xxx/show",
-  "preloadEnabled": true,
-  "loadAndShowEnabled": true,
-  "loadAndShowDelayMillis": 400,
-  "minIntervalBetweenAdsMillis": 15000
-}
-```
-
-------------------------------------------------------------------------
 
 # 🗂 Remote Config System
 
